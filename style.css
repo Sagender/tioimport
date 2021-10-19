@@ -24,7 +24,7 @@ header{
     width: 100%;
     height: 450px;/*anterioe 600px*/
     background: #2193b0;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(191, 88%, 50%, 0.45) , #b1f17c),url(width:30% height: 25% imagen/fondo6.jpeg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, hsla(191, 88%, 50%, 0.45) , #b1f17c),url(imagen/fondo6.jpeg);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, hsla(191, 88%, 50%, 0.45) ,#b1f17c),url(imagen/fondo6.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
