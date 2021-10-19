@@ -53,20 +53,31 @@ nav > a{
         display:flex;
         height: 430px;
         width: 100%;
+        /*agregando font*/
+        font-family: 'Festive',Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        /* fin de agregando font*/
         align-items: center;
         justify-content: center;
         flex-direction: column;
         text-align: center;
     }
     .text-header h1{
-        font-size: 50px;
-        color: #fff;
+        font-size: 80px;
+        color: #FBFCFC ;
 
     }
+   
 
     /*about us*/
     main .about_us{
         padding: 60px 0 30px 0;
+    }
+    .contenedor-about-us{
+        margin: 0%;
+        padding: 0;
+        background:#414141;
+        box-sizing:border-box;
+        padding-top: 0%;
     }
     .about_us{
         display: flex;
